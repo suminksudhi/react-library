@@ -1,22 +1,23 @@
-# react-library-js
+# @drifters/template-react-library
 
-> Made with create-react-library
+> Template project for react library
 
-[![NPM](https://img.shields.io/npm/v/react-library-js.svg)](https://www.npmjs.com/package/react-library-js) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Build Status](https://travis-ci.org/suminksudhi/react-library.svg?branch=master)](https://travis-ci.org/suminksudhi/react-library)
 
 ## Install
 
 ```bash
-npm install --save react-library-js
+git clone https://github.com/suminksudhi/react-library.git#master
 ```
 
-## Usage
+## Sample
 
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-library-js'
-import 'react-library-js/dist/index.css'
+import MyComponent from '@drifters/template-react-library'
+import '@drifters/template-react-library/dist/index.css'
 
 class Example extends Component {
   render() {

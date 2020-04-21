@@ -1,6 +1,6 @@
 {
-  "name": "react-library-js-example",
-  "homepage": "https://suminksudhi.github.io/react-library-js",
+  "name": "@drifters/template-react-library-example",
+  "homepage": "https://suminksudhi.github.io/react-library",
   "version": "0.0.0",
   "private": true,
   "dependencies": {

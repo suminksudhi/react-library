@@ -1,10 +1,10 @@
 {
-  "name": "react-library-js",
+  "name": "@drifters/template-react-library",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "description": "template project for react library",
   "author": "suminksudhi",
   "license": "MIT",
-  "repository": "suminksudhi/react-library-js",
+  "repository": "suminksudhi/react-library",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
